@@ -1,0 +1,47 @@
+body {
+    background: #767de4;
+}
+.cuerpo {
+    background: #fff;
+    border: 7px solid #000;
+    padding: 1em 2em;
+    margin: 50px auto;
+    width: 1080px;
+    height: 800px;
+    display: block;
+}
+
+.caja {
+    background: #fff;
+    border: 1px solid #dadada;
+}
+
+.boton {
+    background: #fff;
+    border: 1px solid #dadada;
+    padding: 0.25em 0.5em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.cabecera {
+    text-align: right;
+    margin-bottom: 0.5em;
+}
+
+strong {
+    color: #781b31;
+}
+
+th.icon > i {
+    font-size: 2em;
+    width: 2em;
+}
+
+hr {
+    margin: 0.5em;
+}
+
+p.text {
+    font-weight: 300;
+}
